@@ -1,0 +1,39 @@
+/* .auction-item-container {
+  padding: 12px 0;
+}
+*/
+.auction-item-container-item {
+  padding: 24px 16px;
+} 
+
+.auction-item-container-number {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 22px;
+  padding-right: 18px;
+}
+
+.auction-item-container-title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.auction-item-container-price {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 14px;
+  text-align: right;
+}
+
+.auction-item-container-price-name {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 14px;
+  color: #999999;
+  padding-left: 4px;
+}

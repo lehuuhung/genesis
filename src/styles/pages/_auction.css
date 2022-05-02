@@ -1,0 +1,158 @@
+.auction-container {
+  padding-top: 28px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.auction-container-title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 33px;
+  color: #FFFFFF;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 55px;
+}
+
+.auction-container-genesis {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  text-align: center;
+  color: #FFFFFF;
+  padding-bottom: 15px;
+}
+
+.auction-container-timer-name {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 111%;
+  text-align: center;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  width: 64px;
+}
+
+.auction-container-price {
+  background: #1A1A1A;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.auction-container-history {
+  padding-top: 23px;
+  padding-bottom: 31px;
+}
+
+.auction-container-history-title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+
+.auction-container-history-title-line {
+  width: 64px;
+  height: 1px;
+  background: #fff;
+}
+
+.auction-container-history-time {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #CCCCCC;
+  padding-top: 10px;
+  padding-bottom: 6px;
+}
+
+.auction-container-history-content{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #BBBBBB;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #1A1A1A;
+  border-bottom-color: #333333;
+  border-bottom-width: 1px;
+}
+
+.auction-container-content {
+  padding-top: 14px;
+  padding-bottom: 53px;
+}
+
+.auction-container-content-container {
+}
+
+.auction-container-content-content {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #E2E2E2;
+  padding-right: 8.59px;
+}
+
+.auction-container-content-price-container {
+  padding-bottom: 41px;
+  padding-top: 43px;
+}
+
+.auction-container-content-price-container-title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.auction-container-content-price-container-sub-title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: right;
+  color: #999999;
+}
+
+.auction-container-content-price-container-note {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #4D4D4D;
+  padding-right: 8px;
+}
+
+.auction-container-content-price-container-note-container {
+  padding-bottom: 8px;
+  border-bottom-width: 1px;
+  border-bottom-color: #D4D4D4;
+  margin-bottom: 20px;
+}
+
+/* .auction-container-content-price-container-footer {
+  padding-top: 13px;
+  padding-bottom: 30px;
+} */
+
+.auction-container-content-price-container-footer-content {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: right;
+  color: #E2E2E2;
+  padding-right: 8.59px;
+}

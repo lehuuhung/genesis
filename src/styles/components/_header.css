@@ -1,0 +1,32 @@
+.header-container {
+    background: black
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+    height: 60px;
+    /* padding-left: 16px;
+    padding-right: 16px */
+}
+
+.flex {
+    display: flex;
+}
+
+.white {
+    color: white;
+}
+
+.header-wallet {
+    padding: 4px;
+    margin-left:12px;
+    background: #222222;
+}
+
+.header-language {
+    padding: 4px;
+    background: #222222;
+}

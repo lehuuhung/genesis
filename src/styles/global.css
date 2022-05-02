@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "components/_header.css";
+@import "components/_footer.css";
+@import "pages/_home.css";
+@import "pages/_minting.css";
+@import "pages/_auction.css";
+@import "components/_auction.css";
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Genesis Sans,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.home {
+  max-width: 600px;
+  margin: auto;
+}
+.mobile {
+  max-width: 600px;
+  margin: auto;
+}
+.web{
+    max-width: 1280px;
+    margin: auto;
+}

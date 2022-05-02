@@ -1,0 +1,157 @@
+.minting{
+  padding: 20px 28px;
+}
+
+.minting-title {
+  font-size: 16px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.minting-whitelist-title {
+  font-size: 22px;
+  color: #fff;
+  padding-bottom: 36px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.minting-price-time {
+  font-size: 12px;
+  color: #7D7D7D;
+}
+
+.minting-price-name {
+  font-size: 14px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+
+.minting-price-price {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.color-C36F51 {
+  color: #C36F51;
+}
+
+/* .minting-nft-minting {
+  padding-top: 40px;
+  text-align: center;
+} */
+
+.minting-nft-minting-title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.minting-nft-minting-price {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.minting-nft-minting-content {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #7D7D7D;
+  text-align: center;
+  padding-top: 4px;
+  padding-bottom: 50px;
+}
+
+ .minting-nft {
+
+  background: #1A1A1A;
+} 
+
+/* .minting-nft-minting {
+  padding-left: 10px;
+  padding-right: 10px;
+} */
+
+.minting-footer {
+  padding-top: 13px;
+  padding-bottom: 51px;
+}
+
+.minting-line-price {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.minting-line-price-whitelist {
+  width: 100%;
+  height: 6px;
+  background: #808080;
+}
+
+.minting-line-price-whitelist-active {
+  width: 50%;
+  height: 6px;
+  left: 0;
+  background: #FFFFFF;
+}
+
+.minting-line-price-whitelist-price {
+  width: 60px;
+  padding-top: 10px;
+}
+
+.minting-line-price-whitelist-price-inactive {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  color: #808080;
+}
+
+.minting-line-price-whitelist-price-active {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  /*line-height: 17px;*/
+}
+
+
+
+.minting-line-price-whitelist-container {
+  width: 25%;
+}
+
+.minting-line-price-whitelist-container-name {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  /* text-align: center; */
+  color: #FFFFFF;
+}
+
+.minting-line-price-public-container {
+  width: 75%;
+  padding-top: 1px;
+}
+
+.minting-line-price-public {
+  background: #808080;
+  height: 6px;
+}
+
+.minting-line-price-name {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #808080;
+}
+
+.bg-1A1A1A {
+  background: #1A1A1A;
+}
+
+
